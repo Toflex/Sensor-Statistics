@@ -84,5 +84,5 @@ s3,NaN,NaN,NaN
 ## How to Run
 
 - sbt
-- run '<directory to sensory reports>'
+- run 'directory to sensory reports'
 
